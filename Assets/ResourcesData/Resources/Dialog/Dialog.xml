@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>안녕하세요 서울 소방서의 김 소방관 입니다</sentence>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>오늘은 소화기 사용법에 대하여 알려드리겠습니다</sentence>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>소화기는 먼저 손잡이의 안전핀을 잡아 뽑습니다</sentence>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>노즐(호스) 끝을 불이 난 곳(화점)을 향하게 합니다</sentence>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>손잡이를 가위질하듯 힘껏 움켜쥐어 분말을 방출 시킵니다</sentence>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>불의 아랫부부에서 부터 빗자루로 쓸듯이 골고루 분사하여 불을 끕니다</sentence>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>불이 완전히 꺼진것을 확인한 후 소화기를 놓습니다</sentence>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>지금부터 앞에 있는 소화기를 이용하여 불을 끄는 실습을 하겠습니다</sentence>
+	</dialog>
+	<dialog>
+		<number>1</number>
+		<character>1</character>
+		<name>김소방</name>
+		<sentence>안전이 최고입니다</sentence>
+	</dialog>
+</root>
